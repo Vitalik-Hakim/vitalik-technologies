@@ -36,16 +36,14 @@ export default function Features() {
           <div className="mx-auto max-w-3xl pb-4 text-center md:pb-12">
             <div className="inline-flex items-center gap-3 pb-3 before:h-px before:w-8 before:bg-gradient-to-r before:from-transparent before:to-indigo-200/50 after:h-px after:w-8 after:bg-gradient-to-l after:from-transparent after:to-indigo-200/50">
               <span className="inline-flex bg-gradient-to-r from-indigo-500 to-indigo-200 bg-clip-text text-transparent">
-                Advanced Controls
+                Vitalik Technologies
               </span>
             </div>
             <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-3xl font-semibold text-transparent md:text-4xl">
-              Built for modern product teams
+              Tailored for Modern Businesses
             </h2>
             <p className="text-lg text-indigo-200/65">
-              Open AI reads and understands your files, and with nothing more
-              than a single line of feedback, so you can go further than the
-              speed of thought.
+            Our agency leverages cutting-edge technology and strategic expertise to elevate your brand’s digital presence. With seamless collaboration and personalized solutions, we help you achieve your goals faster and more efficiently than ever before.
             </p>
           </div>
           <div className="flex justify-center pb-4 md:pb-12" data-aos="fade-up">
@@ -76,8 +74,7 @@ export default function Features() {
                 Project Milestones
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Monitor progress with precision using tailored project milestones. We help you design and implement a roadmap that aligns with your business goals, ensuring every step is strategic, efficient, and secure.
               </p>
             </article>
             <article>
@@ -94,8 +91,9 @@ export default function Features() {
                 Team Views
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+               Empower your team with customized views that provide clarity and transparency. 
+                Track tasks, deadlines, and responsibilities seamlessly, 
+                fostering collaboration while maintaining privacy and data security.
               </p>
             </article>
             <article>
@@ -112,11 +110,10 @@ export default function Features() {
                 />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Advanced Search
+                Advanced Research and Development
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Easily access the information you need with our advanced search tools. From client data to project details, we ensure quick retrieval and a streamlined experience that enhances productivity.
               </p>
             </article>
             <article>
@@ -141,8 +138,8 @@ export default function Features() {
                 Strategic Initiatives
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                We work with you to define and implement strategic initiatives that drive growth and innovation.
+                Our approach focuses on achieving measurable outcomes and optimizing every phase of your digital strategy.
               </p>
             </article>
             <article>
@@ -162,8 +159,8 @@ export default function Features() {
                 Flexible Workflows
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+               Adapt your workflows to fit your business needs.
+                Our flexible solutions allow your team to manage tasks and projects efficiently, with the ability to customize processes as your business evolves.
               </p>
             </article>
             <article>
@@ -183,8 +180,8 @@ export default function Features() {
                 Unified Timeline
               </h3>
               <p className="text-indigo-200/65">
-                Track progress across custom flows for your team. Find the right
-                balance for the user, privacy and security.
+                Visualize your entire project lifecycle with a unified timeline. Stay on top of deadlines, milestones, and deliverables,
+                ensuring your team remains aligned and focused on achieving key business objectives.
               </p>
             </article>
           </div>
