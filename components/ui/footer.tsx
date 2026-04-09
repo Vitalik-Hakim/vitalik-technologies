@@ -212,7 +212,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="https://github.com/Vitalik-Technologies"
+                    href="https://github.com"
                     aria-label="Github"
                   >
                     <svg
