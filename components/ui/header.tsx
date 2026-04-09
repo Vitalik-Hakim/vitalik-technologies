@@ -15,7 +15,7 @@ export default function Header() {
               className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,theme(colors.gray.200),theme(colors.indigo.200),theme(colors.gray.50),theme(colors.indigo.300),theme(colors.gray.200))] bg-[length:200%_auto] bg-clip-text font-nacelle text-3xl font-semibold text-transparent md:text-3xl"
               data-aos="fade-up"
             >
-              Vitalik Technologies
+              Vitalik Digital
             </h1>
           </div>
 
